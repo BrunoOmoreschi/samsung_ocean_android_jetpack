@@ -1,4 +1,4 @@
-![header](D:\Programation\socean\samsung_ocean_android_jetpack\header.png)
+![header](https://github.com/BrunoOmoreshi/samsung_ocean_android_jetpack/blob/main/header.png)
 
 # Android: Jetpack e Arquitetura
 
@@ -16,4 +16,4 @@ Para saber mais sobre o  Jetpack veja: https://developer.android.com/jetpack
 
 Prova de vida:
 
-![app_exemplo](D:\Programation\socean\samsung_ocean_android_jetpack\app_exemplo.png)
+![app_exemplo](https://github.com/BrunoOmoreshi/samsung_ocean_android_jetpack/blob/main/app_exemplo.png)
